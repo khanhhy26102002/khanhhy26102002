@@ -1,22 +1,21 @@
 <div align="left">
-  <div align="center">
   
   <!-- Dynamic Typing Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20|%20Full-Stack%20Developer%20🚀&descSize=20&descAlignY=55&descAlign=50" alt="header"/>
   
 </div>
 
-<div align="center">
+<div align="left">
   
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Building+Scalable+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&left=true&vleft=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Building+Scalable+Applications" alt="Typing SVG" />
   </a>
   
   <br/>
   
   <!-- Badges Row -->
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ledangkhanhhydeptrai&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
     <img src="https://img.shields.io/github/followers/ledangkhanhhydeptrai?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers"/>
     <img src="https://img.shields.io/github/stars/ledangkhanhhydeptrai?label=Stars&style=for-the-badge&color=a855f7" alt="stars"/>
@@ -27,7 +26,7 @@
 <br/>
 
 <!-- About Me Section with Glassmorphism Style -->
-<div align="center">
+<div align="left">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
 </div>
 
@@ -71,7 +70,7 @@ const developer = {
 <br/>
 
 <!-- Tech Stack Section -->
-<div align="center">
+<div align="left">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
 </div>
 
@@ -117,7 +116,7 @@ const developer = {
 <br/>
 
 <!-- GitHub Stats Section -->
-<div align="center">
+<div align="left">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
 </div>
 
@@ -125,34 +124,34 @@ const developer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=a855f7"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9"/>
 </div>
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ledangkhanhhydeptrai&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=f97316&currStreakLabel=8b5cf6&dates=c9d1d9" width="100%"/>
 </div>
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366f1&line=8b5cf6&point=c9d1d9&area=true&hide_border=true&area_color=a855f7&title_color=6366f1" width="98%"/>
 </div>
 
 <br/>
 
 <!-- Featured Projects Section -->
-<div align="center">
+<div align="left">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
 </div>
 
 
 <br/>
 
-<div align="center">
+<div align="left">
   
   ### 💡 More Projects
   
@@ -165,7 +164,7 @@ const developer = {
 <br/>
 
 <!-- Featured Projects Section -->
-<div align="center">
+<div align="left">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
 </div>
 
@@ -173,7 +172,7 @@ const developer = {
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<div align="left">
   
   <a href="mailto:ledangkhanhhy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -200,7 +199,7 @@ const developer = {
 <br/>
 
 <!-- Quote Section -->
-<div align="center">
+<div align="left">
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson&border=true&border_color=6366f1" alt="Quote"/>
   
@@ -210,7 +209,7 @@ const developer = {
 
 ---
 
-<div align="center">
+<div align="left">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
   
@@ -223,5 +222,7 @@ const developer = {
   <sub>Made with 💜 and ☕ by **Lê Đặng Khánh Hỷ**</sub>
   
 </div>
+  )
+}
 
-</div>
+export default App
