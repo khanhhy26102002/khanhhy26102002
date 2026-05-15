@@ -1,4 +1,5 @@
-<div align="center">
+<div align="left">
+  <div align="center">
   
   <!-- Dynamic Typing Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20|%20Full-Stack%20Developer%20🚀&descSize=20&descAlignY=55&descAlign=50" alt="header"/>
@@ -221,4 +222,6 @@ const developer = {
   
   <sub>Made with 💜 and ☕ by **Lê Đặng Khánh Hỷ**</sub>
   
+</div>
+
 </div>
