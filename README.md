@@ -41,19 +41,19 @@ const developer = {
   name: "Lê Đặng Khánh Hỷ",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   role: "Full-Stack Developer",
-  
+
   currentFocus: {
     building: "E-commerce Platform",
     learning: ["System Design", "Microservices"]
   },
-  
+
   techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend: ["Java", "Spring Boot", "Node.js"],
-    database: ["MySQL", "PostgreSQL", "Redis"],
+    frontend: ["Next.js", "React.js", "AngularJS", "TypeScript", "TailwindCSS"],
+    backend: ["Java", "NestJS", "Python", "ASP.NET"],
+    database: ["MySQL", "PostgreSQL"],
     tools: ["Git", "Docker", "VS Code"]
   },
-  
+
   funFact: "Coffee-driven developer ☕"
 };
 ```
@@ -62,7 +62,7 @@ const developer = {
 
 ### 🎯 What I'm Up To
 
-- 🔭 Building **E-commerce Platform** with Next.js & Spring Boot
+- 🔭 Building **E-commerce Platform** with Next.js & NestJS
 - 🌱 Learning **System Design** & **Microservices Architecture**
 - 💼 Open for **Full-Stack Developer** opportunities
 - 📫 Contact: **ledangkhanhhy@gmail.com**
@@ -81,34 +81,34 @@ const developer = {
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,tailwind&perline=5" />
 </p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,nestjs,python,dotnet&perline=4" />
 </p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 💾 Database & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,git,docker,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,docker,vscode&perline=5" />
 </p>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
