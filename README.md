@@ -1,228 +1,199 @@
-<div align="left">
-  
-  <!-- Dynamic Typing Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20|%20Full-Stack%20Developer%20🚀&descSize=20&descAlignY=55&descAlign=50" alt="header"/>
-  
-</div>
+<div align="center">
 
-<div align="left">
-  
-  <!-- Animated Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&left=true&vleft=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Building+Scalable+Applications" alt="Typing SVG" />
-  </a>
-  
-  <br/>
-  
-  <!-- Badges Row -->
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ledangkhanhhydeptrai&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/ledangkhanhhydeptrai?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers"/>
-    <img src="https://img.shields.io/github/stars/ledangkhanhhydeptrai?label=Stars&style=for-the-badge&color=a855f7" alt="stars"/>
-  </p>
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Crafting%20Scalable%20Digital%20Products%20🚀&descSize=18&descAlignY=56&descAlign=50" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Next.js+%7C+NestJS+%7C+Spring+Boot+%E2%9A%A1;Building+things+that+actually+ship+%F0%9F%93%A6;Coffee-fueled+%E2%80%A2+Clean+Code+%E2%80%A2+Good+Vibes+%E2%98%95" />
+</a>
+
+<br/><br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ledangkhanhhydeptrai&label=Profile+Views&color=818cf8&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ledangkhanhhydeptrai?label=Followers&style=flat-square&color=a78bfa" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ledangkhanhhydeptrai?label=Total+Stars&style=flat-square&color=c4b5fd" />
+</p>
+
 </div>
 
 <br/>
 
-<!-- About Me Section with Glassmorphism Style -->
-<div align="left">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+## 👾 whoami
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```typescript
-const developer = {
-  name: "Lê Đặng Khánh Hỷ",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  role: "Full-Stack Developer",
+```ts
+const khanhy = {
+  name    : "Lê Đặng Khánh Hỷ",
+  base    : "Ho Chi Minh City, Vietnam 🇻🇳",
+  role    : "Full-Stack Developer",
 
-  currentFocus: {
-    building: "E-commerce Platform",
-    learning: ["System Design", "Microservices"]
+  stack: {
+    frontend : ["Next.js", "React", "AngularJS", "TypeScript", "TailwindCSS"],
+    backend  : ["Java / Spring Boot", "NestJS", "Python", "ASP.NET"],
+    data     : ["MySQL", "PostgreSQL"],
+    devops   : ["Docker", "Git"],
   },
 
-  techStack: {
-    frontend: ["Next.js", "React.js", "AngularJS", "TypeScript", "TailwindCSS"],
-    backend: ["Java", "NestJS", "Python", "ASP.NET"],
-    database: ["MySQL", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code"]
+  currently: {
+    building : "E-commerce Platform (Next.js + NestJS)",
+    studying : ["System Design", "Microservices"],
+    openTo   : "Full-Stack Developer roles 💼",
   },
 
-  funFact: "Coffee-driven developer ☕"
-};
+  contact  : "ledangkhanhhy@gmail.com",
+  motto    : "First solve the problem. Then write the code.",
+} as const;
 ```
 
-<br/>
+### 🔍 What I'm doing right now
 
-### 🎯 What I'm Up To
-
-- 🔭 Building **E-commerce Platform** with Next.js & NestJS
-- 🌱 Learning **System Design** & **Microservices Architecture**
-- 💼 Open for **Full-Stack Developer** opportunities
-- 📫 Contact: **ledangkhanhhy@gmail.com**
+- 🏗️ Shipping an **E-commerce Platform** — Next.js · NestJS · PostgreSQL
+- 📐 Deep-diving into **System Design** & **Microservices Architecture**
+- 💡 Always open to collabs, side projects, and good ideas
+- 📬 Hit me up: **ledangkhanhhy@gmail.com**
 
 <br/>
 
-<!-- Tech Stack Section -->
-<div align="left">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <br/>
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,tailwind&perline=5" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,tailwind&perline=10&theme=dark" />
 </p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,nestjs,python,dotnet&perline=4" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,python,dotnet&perline=10&theme=dark" />
 </p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### 💾 Database & Tools
+### 💾 Database & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,docker,vscode&perline=5" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,vscode&perline=10&theme=dark" />
 </p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <br/>
 
-<!-- GitHub Stats Section -->
-<div align="left">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <br/>
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=a855f7"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9"/>
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=c4b5fd"/>
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ledangkhanhhydeptrai&theme=tokyonight&hide_border=true&background=0D1117&ring=818cf8&fire=f97316&currStreakLabel=a78bfa&dates=c9d1d9&sideLabels=818cf8" width="96%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&custom_title=Contribution+Graph&bg_color=0D1117&color=818cf8&line=a78bfa&point=e2e8f0&area=true&hide_border=true&area_color=312e81&title_color=818cf8" width="97%"/>
+
 </div>
 
 <br/>
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ledangkhanhhydeptrai&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=f97316&currStreakLabel=8b5cf6&dates=c9d1d9" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+## 🗂️ Projects
+
+> Xem toàn bộ dự án tại đây 👇
+
+<div align="center">
+
+<a href="https://github.com/ledangkhanhhydeptrai?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-%230D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=818cf8" />
+</a>
+
 </div>
 
 <br/>
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366f1&line=8b5cf6&point=c9d1d9&area=true&hide_border=true&area_color=a855f7&title_color=6366f1" width="98%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="mailto:ledangkhanhhy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ledangkhanhhydeptrai">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ledangkhanhhy">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/ledangkhanhhy">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 **Open to full-time roles, freelance projects, and interesting collabs!**
+
 </div>
 
 <br/>
 
-<!-- Featured Projects Section -->
-<div align="left">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
-</div>
+<div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson&border=true&border_color=818cf8" />
 
-<br/>
-
-<div align="left">
-  
-  ### 💡 More Projects
-  
-  <a href="https://github.com/ledangkhanhhydeptrai?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="View Repos"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<!-- Featured Projects Section -->
-<div align="left">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="left">
-  
-  <a href="mailto:ledangkhanhhy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  
-  <a href="https://github.com/ledangkhanhhydeptrai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/ledangkhanhhy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://facebook.com/ledangkhanhhy">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  
-  <br/><br/>
-  
-  **💬 Open for collaborations and opportunities!**
-  
-</div>
-
-<br/>
-
-<!-- Quote Section -->
-<div align="left">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson&border=true&border_color=6366f1" alt="Quote"/>
-  
 </div>
 
 <br/>
 
 ---
 
-<div align="left">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-  
-  <br/>
-  
-  **⭐ Star my repositories if you find them interesting!**
-  
-  <br/><br/>
-  
-  <sub>Made with 💜 and ☕ by **Lê Đặng Khánh Hỷ**</sub>
-  
-</div>
-  )
-}
+<div align="center">
 
-export default App
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+<sub>Built with 💜 & ☕ by <strong>Lê Đặng Khánh Hỷ</strong> — keep shipping!</sub>
+
+</div>
